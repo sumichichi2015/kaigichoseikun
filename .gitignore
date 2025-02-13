@@ -1,0 +1,17 @@
+# 環境変数
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 依存関係
+node_modules/
+
+# 次のキャッシュ
+.next/
+out/
+
+# その他
+.DS_Store
+*.log
